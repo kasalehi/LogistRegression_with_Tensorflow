@@ -2,4 +2,4 @@
 all tgose model are all types of supervise and non supervise models which is used for podcutions.
  * Regression model
  * Logistic regression
- * Binary calssification
+ * Binary calssification .......
